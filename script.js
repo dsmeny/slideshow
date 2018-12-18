@@ -43,10 +43,4 @@ function counter() {
   return count;
 }
 
-//** Bonus credits**//
-//add a css transitioning style where the image slides into view
-//add an auto slide
-//1s intervals
-//user can pause it by hovering over the image
-//auto slider pauses when there is a click event
-//delay 5s before enabling auto slider
+
